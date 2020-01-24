@@ -1,0 +1,11 @@
+E:\Eu\Eu\bin\Debug\netcoreapp3.1\Eu.exe
+E:\Eu\Eu\bin\Debug\netcoreapp3.1\Eu.deps.json
+E:\Eu\Eu\bin\Debug\netcoreapp3.1\Eu.runtimeconfig.json
+E:\Eu\Eu\bin\Debug\netcoreapp3.1\Eu.runtimeconfig.dev.json
+E:\Eu\Eu\bin\Debug\netcoreapp3.1\Eu.dll
+E:\Eu\Eu\bin\Debug\netcoreapp3.1\Eu.pdb
+E:\Eu\Eu\obj\Debug\netcoreapp3.1\Eu.csprojAssemblyReference.cache
+E:\Eu\Eu\obj\Debug\netcoreapp3.1\Eu.AssemblyInfoInputs.cache
+E:\Eu\Eu\obj\Debug\netcoreapp3.1\Eu.AssemblyInfo.cs
+E:\Eu\Eu\obj\Debug\netcoreapp3.1\Eu.dll
+E:\Eu\Eu\obj\Debug\netcoreapp3.1\Eu.pdb
